@@ -9,4 +9,4 @@ github pages的網址結構是http://帳號.github.io/分支名稱/
 
 所以我們可以透過下列網址去檢視自動產生的GitHub Pages
 
-http://kejyun.github.io/github-page/
+http://tang7526.github.io/sandbox/
